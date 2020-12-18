@@ -40,7 +40,7 @@ class List extends Component {
 
     return (
       <div>
-        <div>{this.state.appTitle}</div>
+        <h1>{this.state.appTitle}</h1>
         {/* onsubmit will handle the function for changing the title when the button is clicked */}
         <form onSubmit={(event)=>this.changeTitle(event)}>
 
