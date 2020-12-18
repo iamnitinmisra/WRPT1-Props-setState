@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "posterImg": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "id": 1,
+        "title": "The Lion King",
+        "year": 1994,
+        "posterImg": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Alien",
+        "year": 1979,
+        "posterImg": "https://images-na.ssl-images-amazon.com/images/I/41VReP3cJoL._AC_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "posterImg": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Dark Knight",
+        "year": 2015,
+        "posterImg": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+    }
+]

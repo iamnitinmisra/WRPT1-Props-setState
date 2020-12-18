@@ -1,0 +1,7 @@
+.movie-poster{
+    /* min/max width/height is used to keep the aspect ratio of the original image */
+    min-width: 300px;
+    max-width: 300px;
+    min-height: 500px;
+    max-height: 500px;
+}
